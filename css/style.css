@@ -1,0 +1,87 @@
+#wrapper {
+  font-family: Roboto Condensed, Arial, Sans-Serif;
+  color: #000000;
+  height: 100%;
+  text-align: center;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+}
+a:hover {
+  color: #8994A7;
+}
+a.activePage {
+  color: #8994A7;
+  font-weight: 100;
+}
+h1 {
+  text-transform: uppercase;
+  font-family: Roboto, Arial, Sans-Serif;
+  font-weight: 100;
+}
+#header {
+  padding: 20px;
+}
+nav a {
+  padding: 20px;
+}
+#content {
+  padding: 50px;
+}
+#content img {
+  max-width: 300px;
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+}
+img#contactPhoto {
+  max-width: 500px;
+}
+#content p {
+  max-width: 940px;
+  margin: auto;
+  display: block;
+  text-align: left;
+  line-height: 150%;
+  padding: 10px;
+  font-weight: 300;
+  font-size: 12pt;
+  spacing: 2px;
+  position: relative;
+}
+#content .contactInfo p {
+  text-align: center;
+}
+.images {
+  display: block;
+}
+.experience {
+  vertical-align: top;
+  display: inline-block;
+}
+.experience h3 {
+  font-weight: 300;
+  text-transform: lowercase;
+}
+.experience ul {
+  text-align: left;
+  list-style-type: none;
+  font-weight: 300;
+  font-size: 12pt;
+  spacing: 2px;
+}
+.experience a {
+  text-transform: uppercase;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  font-size: 9pt;
+  color: #000000;
+}
+#footer a {
+  padding: 10px;
+}
