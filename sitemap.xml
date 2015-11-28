@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://melissalower.com</loc>
+    <loc>http://melissalower.com/</loc>
+    <lastmod>2015-11-28T23:06:01+00:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1</priority>
+    <priority>1.00</priority>
   </url>
   <url>
-    <loc>http://melissalower.com/about</loc>
+    <loc>http://melissalower.com/about.html</loc>
+    <lastmod>2015-11-28T23:06:01+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://melissalower.com/education</loc>
+    <loc>http://melissalower.com/education.html</loc>
+    <lastmod>2015-11-28T23:06:01+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://melissalower.com/experience</loc>
+    <loc>http://melissalower.com/experience.html</loc>
+    <lastmod>2015-11-28T23:06:01+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://melissalower.com/contact</loc>
+    <loc>http://melissalower.com/contact.html</loc>
+    <lastmod>2015-11-28T23:06:01+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>http://melissalower.com/resume</loc>
+    <loc>http://melissalower.com/MelissaLowerResume.pdf</loc>
+    <lastmod>2015-11-28T23:06:01+00:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://melissalower.com/index.html</loc>
+    <lastmod>2015-11-28T23:06:01+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
