@@ -28,7 +28,7 @@ nav a:hover {
   padding: 50px;
 }
 #content img {
-  max-width: 350px;
+  max-width: 20%;
   position: relative;
   display: inline-block;
   padding: 10px;

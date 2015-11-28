@@ -30,13 +30,13 @@ nav a {
   padding: 50px;
 }
 #content img {
-  max-width: 300px;
+  max-width: 23%;
   position: relative;
   display: inline-block;
   padding: 10px;
 }
 img#contactPhoto {
-  max-width: 500px;
+  max-width: 30%;
 }
 #content p {
   max-width: 940px;
