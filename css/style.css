@@ -26,6 +26,20 @@ h1 {
 nav a {
   padding: 20px;
 }
+nav ul {
+  list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+  display: inline;
+}
+@media screen and (max-width: 540px) {
+  nav li {
+    display: block;
+    padding: 5px;
+  }
+}
 #content {
   padding: 50px;
 }
@@ -70,6 +84,9 @@ img#contactPhoto {
   font-weight: 300;
   font-size: 12pt;
   spacing: 2px;
+}
+.experience li {
+  padding: 3px;
 }
 .experience a {
   text-transform: uppercase;
